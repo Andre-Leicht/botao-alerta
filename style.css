@@ -5,4 +5,12 @@ body{
     min-height: 100vh;
     display: grid;
     place-items: center;
+    background-image: url(https://images.unsplash.com/photo-1611427040258-a5ff6be988b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+button{
+    color: black;
+    background-color: darkred;
 }
